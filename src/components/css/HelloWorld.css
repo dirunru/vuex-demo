@@ -1,0 +1,45 @@
+.hello{
+    margin-left: 50px;
+}
+.input-with-select {
+    max-width:400px !important;
+}
+.el-select{
+    width:150px !important;
+}
+.el-form div{
+    flex: 1;
+    margin-right:10px;
+}
+.el-tabs{
+    margin-top: 20px;
+}
+.content1, .content2,.content3{
+    text-align: left;
+}
+
+.el-breadcrumb{
+    margin-top:20px;
+    font-size: 16px;
+}
+.itemList{
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    border-bottom: 1px  solid #ddd;
+}
+.active{
+    border-bottom:2px solid #e4393c;
+    font-weight: bold;
+}
+.itemList li{
+    float: left;
+    width: 100px;
+    text-align: center;
+    cursor: pointer;
+    line-height: 3;
+}
+.tabCon{
+    max-width:1200px;
+    min-height:800px;
+}

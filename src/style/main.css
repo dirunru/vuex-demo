@@ -1,0 +1,12 @@
+  /* tabs标签页的公用样式 */
+  .el-tabs__item:hover {
+    color: #e4393c !important;
+  }
+  
+  .el-tabs__item.is-active {
+    color: #e4393c !important;
+  }
+  
+  .el-tabs__active-bar {
+    background-color: #e4393c !important;
+  }
